@@ -1,0 +1,75 @@
+.mainContainer {
+ width: 400px;
+ background: #24303c;
+ padding: 30px;
+ margin: 100px auto;
+ margin-top: 100px;
+ border-radius: 4px;
+ font-size: 'calibri';
+ color: white;
+ margin-left:20%;
+}
+
+.mainContainer h1{
+    font-size: 30px;
+    margin-bottom: 35px;
+
+}
+
+
+.taskInput{
+width: 70%;
+background: #24303C;
+padding: 10PX;
+border-radius: 4PX;
+margin-bottom: 16PX;
+border: 1px solid #1f53c5;
+font-family: 'calibri';
+font-size: 18px;
+color: white;
+}
+
+.taskTitle{
+    flex: 1;
+    font-size: 20px;
+}
+
+.TaskUpdateForm, .TaskInfo{
+    display: flex;
+    align-items: center;
+    gap: 5;
+}
+
+.button{
+    border: none;
+    border-radius: 3px;
+    background-color: #1f53c5;
+    color: white;
+    margin: 5px;
+    font-size: 15px;
+    padding: 10px 20px;
+}
+
+.button-delete{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(169, 26, 26);
+    color: white;
+    margin: 5px;
+    font-size: 15px;
+    padding: 10px 20px;
+}
+
+.buttonTask{
+    border: none;
+    border-radius: 3px;
+    background-color: #1f53c5;
+    color: white;
+    margin: 10px;
+    font-size: 18px;
+    padding: 10px 15px;
+}
+
+
+
+
