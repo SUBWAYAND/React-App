@@ -1,4 +1,4 @@
-Aplicación de Gestión de Tareas con React
+Aplicación de Gestión de Tareas con React / Task Management Application with React
 
 Esta aplicación desarrollada en React ofrece una solución eficiente para la gestión de tareas, permitiendo a los usuarios crear, guardar, editar y eliminar tareas de manera intuitiva y organizada. Diseñada con una interfaz de usuario moderna y amigable, esta aplicación proporciona una experiencia fluida y sin complicaciones para gestionar las actividades diarias.
 
@@ -19,3 +19,25 @@ Tecnologías Utilizadas:
 Instalación y Uso:
 
 Para probar la aplicación en tu entorno local, simplemente clona este repositorio.
+
+Task Management Application with React
+
+This React-developed application offers an efficient solution for task management, enabling users to create, save, edit, and delete tasks in an intuitive and organized manner. Designed with a modern and user-friendly interface, this application provides a smooth and hassle-free experience for managing daily activities.
+
+Key Features:
+
+Task Creation: Users can easily add new tasks by specifying details such as title, description, and due date.
+Editing and Updating: The application allows the editing of existing tasks, providing flexibility to adjust details as needed.
+Secure Storage: All tasks are securely stored, ensuring data integrity and availability at all times.
+Task Deletion: Users have the ability to delete tasks that are no longer relevant, thus maintaining their task list organized and up-to-date.
+Intuitive Interface: With an intuitive and responsive user interface, the application offers a hassle-free and easy-to-understand user experience for users of all skill levels.
+
+Technologies Used:
+
+React: Leveraging the popular JavaScript framework, the application offers optimal performance and a dynamic user experience.
+LocalStorage: Browser local storage is implemented to ensure persistence of user data.
+CSS3: Modern and responsive styles are employed to ensure an attractive visual experience on a variety of devices.
+
+Installation and Usage:
+
+To test the application in your local environment, simply clone this repository.
