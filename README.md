@@ -1,3 +1,5 @@
+App con React.js "TAKS" 
+
 Aplicación de Gestión de Tareas con React / Task Management Application with React
 
 Esta aplicación desarrollada en React ofrece una solución eficiente para la gestión de tareas, permitiendo a los usuarios crear, guardar, editar y eliminar tareas de manera intuitiva y organizada. Diseñada con una interfaz de usuario moderna y amigable, esta aplicación proporciona una experiencia fluida y sin complicaciones para gestionar las actividades diarias.
